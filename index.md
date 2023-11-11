@@ -45,6 +45,7 @@ This is an application of a basic ATM without User Interface, that is written in
 <img src="images/project4.jpg?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-blue)](#) [![](https://img.shields.io/badge/numpy-white)](#) 
+
 [View code on Github](https://github.com/kartikeysaini98/Basic-ATM)
 
 ### Power BI DashBorad on Covid-19
@@ -53,6 +54,7 @@ This is Power BI live dashboard reporting the cases of Covid-19 across the globe
 <img src="images/project5.jpg?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-blue)](#) [![](https://img.shields.io/badge/numpy-white)](#) 
+
 [View code on Github](https://github.com/kartikeysaini98/Basic-ATM)
 
 ---
