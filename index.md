@@ -4,7 +4,8 @@
 
 ### Covid 19 XRay Image Classification
 
-The purpose of this project is to detect COVID-19 on the basis of X-ray images by using Image Classification using Convolutional Neural Networks. This project uses specialized models like ResNet50 and the normal Sequential model. This project is perfect to get a start on the working of ResNet50.
+The purpose of this project is to detect COVID-19 on the basis of X-ray images by using Image Classification using Convolutional Neural Networks. This project uses specialized models like ResNet50 and the normal Sequential model. This project is perfect to get a start on the working of ResNet50. <br>
+
 <img src="images/project1.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
@@ -28,7 +29,8 @@ A data cleaning project for processing and refining data scraped from Glassdoor'
 
 This Project deals with examining the text and then giving an outcome of the emotion. It uses regex operation, Vectorization, tokenization, and several other features of NLP. Finally, the model is trained and models like linear SVM and Multinomial Naive Bayes Classifier are used to decide the outcome.
 
-<img src="images/project3.png?raw=true" />
+<img src="images/project3.png?raw=true"/>
+
 
 [![](https://img.shields.io/badge/sql-blue)](#) [![](https://img.shields.io/badge/noteable-blue)](#) [![](https://img.shields.io/badge/RDBMS-blue)](#) 
 
