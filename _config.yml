@@ -1,4 +1,7 @@
-title: Kartikey<br> Saini # your name (or website title) here
+
+background-color: #f8f9fa; /* Light background color */
+color: #343a40; /* Dark text color */
+title: Kartikey <br> Saini # your name (or website title) here
 logo: "/images/20220721_004729.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
