@@ -1,11 +1,10 @@
 title: Kartikey <br> Saini # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/20220721_004729.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  
+Aspiring data analyst with a background in business analysis, here to add a relaxed touch to the world of data. Passionate about uncovering insights, I'm on a journey to explore the cool possibilities of data science and its real-world applications. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/kartikey-saini-268827144">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
