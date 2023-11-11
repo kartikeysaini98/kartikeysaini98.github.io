@@ -2,15 +2,14 @@
 
 ---
 
-### Amazon Stock Price Prediction with LSTM Models
+### Covid 19 XRay Image Classification
 
-This project aims to predict the future stock prices of Amazon using Long Short-Term Memory (LSTM) models. We leverage historical stock price data and LSTM neural networks to build a predictive model.
-
+The purpose of this project is to detect COVID-19 on the basis of X-ray images by using Image Classification using Convolutional Neural Networks. This project uses specialized models like ResNet50 and the normal Sequential model. This project is perfect to get a start on the working of ResNet50.
 <img src="images/Amazon.jpg?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
 
-[View code on Github](https://github.com/vishwanathpoojary4/Amazon-stock.git)
+[View code on Github](https://github.com/kartikeysaini98/Covid-19-XRay-Image-Classification)
 
 ---
 
@@ -21,29 +20,37 @@ A data cleaning project for processing and refining data scraped from Glassdoor'
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-blue)](#) [![](https://img.shields.io/badge/numpy-white)](#)
 
-[View code on Github](https://github.com/vishwanathpoojary4/Data-Cleaning.git)
+[View code on Github](https://github.com/kartikeysaini98/Glassdoor-Data-Cleaning)
 
 ---
 
-### Online Retail Data Analysis Using SQL
+### Emotion-detection-using-NLP
 
-An SQL data analysis project on transactional data for a UK-based online retail company specializing in unique all-occasion gifts. 
+This Project deals with examining the text and then giving an outcome of the emotion. It uses regex operation, Vectorization, tokenization, and several other features of NLP. Finally, the model is trained and models like linear SVM and Multinomial Naive Bayes Classifier are used to decide the outcome.
 
 <img src="images/Sql.png?raw=true" />
 
 [![](https://img.shields.io/badge/sql-blue)](#) [![](https://img.shields.io/badge/noteable-blue)](#) [![](https://img.shields.io/badge/RDBMS-blue)](#) 
 
-[View code on Github](https://github.com/vishwanathpoojary4/SQL-Online-Retail.git)
+[View code on Github](https://github.com/kartikeysaini98/Emotion-detection-using-NLP)
 
 ---
 
-### Diabetes Prediction with Random Forest Algorithm
+### Very Basic ATM Code in Python (For Beginners only to make their concepts clear)
 
-Welcome to the "Diabetes Prediction with Random Forest" project. This repository contains code and resources for building a machine learning model to predict the likelihood of diabetes in patients based on various health features.
+This is an application of a basic ATM without User Interface, that is written in python programming language. Moreover, this application will help you to strengthen your fundamentals on the loops used in python.
 
 <img src="images/diabetesi.jpg?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-blue)](#) [![](https://img.shields.io/badge/numpy-white)](#) 
-[View code on Github](https://github.com/vishwanathpoojary4/Diabetes-Prediction-Analysis.git)
+[View code on Github](https://github.com/kartikeysaini98/Basic-ATM)
+
+### Power BI DashBorad on Covid-19
+
+This is Power BI live dashboard reporting the cases of Covid-19 across the globe. This project uses all the intermediate concepts to make you a visualization expert in Microsoft's most demanding Visualization tool.
+<img src="images/diabetesi.jpg?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-blue)](#) [![](https://img.shields.io/badge/numpy-white)](#) 
+[View code on Github](https://github.com/kartikeysaini98/Basic-ATM)
 
 ---
