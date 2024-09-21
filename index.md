@@ -4,14 +4,19 @@
 
 ### Service Sales Analysis Report
 
-Diving Deep into Sales Metrics! <br>
-I am excited to share my latest dashboard showcasing a comprehensive Sales Analysis for services across various categories and regions. <br>
+Diving Deep into Sales Metrics!<br>
+I am excited to share my latest dashboard showcasing a comprehensive Sales Analysis for services across various categories and regions.<hr>
+Key Insights:<br>
+Top Categories: Phones and Chairs lead the sales, but there’s untapped potential in other sub-categories.
+Regional Sales: West and Central regions dominate, but the opportunity lies in the South and Southwest.
+Profit Margins: With a total profit of 286.40K, strategic discounts have played a crucial role.
+This visual story highlights the importance of data-driven decisions in scaling sales and maximizing profits.
 
 <img src="images/Power_Bi.PNG?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
 
-[View code on Github]((https://github.com/kartikeysaini98/Service_Sales_Analysis)
+[View code on Github](https://github.com/kartikeysaini98/Service_Sales_Analysis)
 
 ---
 
