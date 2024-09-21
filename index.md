@@ -2,6 +2,19 @@
 
 ---
 
+### Service Sales Analysis Report
+
+Diving Deep into Sales Metrics! <br>
+I am excited to share my latest dashboard showcasing a comprehensive Sales Analysis for services across various categories and regions. <br>
+
+<img src="images/Power_Bi.PNG?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
+
+[View code on Github]((https://github.com/kartikeysaini98/Service_Sales_Analysis)
+
+---
+
 ### Covid 19 XRay Image Classification
 
 The purpose of this project is to detect COVID-19 on the basis of X-ray images by using Image Classification using Convolutional Neural Networks. This project uses specialized models like ResNet50 and the normal Sequential model. This project is perfect to get a start on the working of ResNet50. <br>
