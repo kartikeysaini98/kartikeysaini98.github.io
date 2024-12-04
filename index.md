@@ -2,6 +2,23 @@
 
 ---
 
+### Bike Sales Analysis Dashboard
+
+Developed an interactive dashboard in Excel to analyze customer demographics and purchasing behavior. Key insights include:<br>
+
+Average Income by Purchase: Identified income trends segmented by gender, marital status, and region.<br>
+Customer Age Brackets: Visualized the purchasing behavior across different age groups, highlighting target demographics.<br>
+Filters and Interactivity: Incorporated slicers for marital status, region, and education to allow dynamic exploration of the data.<br>
+This dashboard showcases advanced Excel skills, including data visualization, PivotTables, and interactivity for actionable insights.<br>
+
+<img src="images/Bikes_project.PNG?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
+
+[View code on Github](https://github.com/kartikeysaini98/Bikes_Sales_Analysis_Dashboard)
+
+---
+
 ### Service Sales Analysis Report
 
 Diving Deep into Sales Metrics!<br>
