@@ -2,7 +2,7 @@
 
 ---
 
-### Bike Sales Analysis Dashboard
+### Bike Sales Dashboard
 
 Developed an interactive dashboard in Excel to analyze customer demographics and purchasing behavior. Key insights include:<br>
 
