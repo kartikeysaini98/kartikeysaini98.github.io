@@ -55,7 +55,7 @@ Explore my projects below to see these skills in action!
 
 <div class="project">
   <p>
-    A comprehensive Power BI solution to help HR teams make data-driven decisions efficiently. This dashboard consolidates key workforce insights such as **headcount, gender and age analysis, salary trends, staff growth over time, and leave balance**.
+    A comprehensive Power BI solution to help HR teams make data-driven decisions efficiently. This dashboard consolidates key workforce insights such as headcount, gender and age analysis, salary trends, staff growth over time, and leave balance.
   </p>
   <video controls width="100%">
     <source src="https://kartikeysaini98.github.io/images/09.02.2025_18.50.01_REC.mp4" type="video/mp4">
@@ -70,7 +70,7 @@ Explore my projects below to see these skills in action!
 
 <div class="project">
   <p>
-    Created an interactive **Excel dashboard** to analyze customer demographics and purchasing behavior.
+    Created an interactive Excel dashboard to analyze customer demographics and purchasing behavior.
   </p>
   <ul>
     <li><strong>Average Income by Purchase:</strong> Segmented by gender, marital status, and region.</li>
@@ -87,7 +87,7 @@ Explore my projects below to see these skills in action!
 
 <div class="project">
   <p>
-    This **Power BI dashboard** showcases a **comprehensive sales analysis** for services across different categories and regions.
+    This Power BI dashboard showcases a comprehensive sales analysis for services across different categories and regions.
   </p>
   <ul>
     <li><strong>Top Categories:</strong> Phones and Chairs lead the sales.</li>
@@ -104,9 +104,10 @@ Explore my projects below to see these skills in action!
 
 <div class="project">
   <p>
-    Implemented **Convolutional Neural Networks (CNNs)** to detect COVID-19 from X-ray images. Utilized **ResNet50** for improved classification accuracy.
+    Implemented Convolutional Neural Networks (CNNs) to detect COVID-19 from X-ray images. Utilized ResNet50 for improved classification accuracy.
   </p>
   <img src="images/project1.png?raw=true" alt="COVID-19 X-Ray Classification">
+  <br>
   <a href="https://github.com/kartikeysaini98/Covid-19-XRay-Image-Classification" target="_blank">View the GitHub Repository</a>
 </div>
 
@@ -116,8 +117,9 @@ Explore my projects below to see these skills in action!
 
 <div class="project">
   <p>
-    Cleaned and structured **job listing data scraped from Glassdoor** to improve usability and insights.
+    Cleaned and structured job listing data scraped from Glassdoor to improve usability and insights.
   </p>
+    <img src="images/project2.png?raw=true" alt="Glassdoor">
   <a href="https://github.com/kartikeysaini98/Glassdoor-Data-Cleaning" target="_blank">View the GitHub Repository</a>
 </div>
 
@@ -127,7 +129,7 @@ Explore my projects below to see these skills in action!
 
 <div class="project">
   <p>
-    Used **Natural Language Processing (NLP)** techniques like **vectorization, tokenization, and SVM classifiers** to detect emotions in text.
+    Used Natural Language Processing (NLP) techniques like vectorization, tokenization, and SVM classifiers to detect emotions in text.
   </p>
   <img src="images/project3.jpg?raw=true" alt="Emotion Detection Using NLP">
   <a href="https://github.com/kartikeysaini98/Emotion-detection-using-NLP" target="_blank">View the GitHub Repository</a>
@@ -151,7 +153,7 @@ Explore my projects below to see these skills in action!
 
 <div class="project">
   <p>
-    Developed an interactive **Power BI dashboard** visualizing COVID-19 cases worldwide.
+    Developed an interactive Power BI dashboard visualizing COVID-19 cases worldwide.
   </p>
   <img src="images/project5.jpg?raw=true" alt="COVID-19 Power BI Dashboard">
   <a href="https://github.com/kartikeysaini98/Covid-19-Dashboard" target="_blank">View the GitHub Repository</a>
@@ -168,11 +170,5 @@ I have worked in roles that involved:
 - **Building Data-Driven Solutions**: Created **Oracle NetSuite dashboards** at **Atlas Tools and Machinery**, improving inventory accuracy by **40%**.
 - **Automating Workflows**: Reduced manual reporting efforts by **50%** through automation.
 - **Driving Business Growth**: Led **data projects for Inspire Brands**, helping secure **255+ new store locations**.
-
----
-
-### **Connect With Me**
-📌 [LinkedIn](https://www.linkedin.com/in/kartikey-saini-268827144)  
-📌 [GitHub](https://github.com/kartikeysaini98)  
 
 ---
