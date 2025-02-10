@@ -1,18 +1,29 @@
-title: "Kartikey Saini | Analyst & Research Specialist" # Website Title
-logo: "/images/Capture.PNG?raw=true" # Path to Your Logo/Image
+title: "Kartikey Saini | Data Analyst & BI Specialist"  # Website Title
+logo: "/images/Capture.PNG?raw=true"  # Path to Your Logo/Image
 
 description: >
-  Data-driven Analyst with 4+ years of experience in data analysis and operational workflows, leveraging SQL, Python, and BI tools to drive business insights and process efficiency. 
+  Data-driven analyst with 4+ years of experience in data analysis and operational workflows, leveraging SQL, Python, Power BI, Excel, and Machine Learning to drive business insights and process efficiency. 
   Passionate about transforming raw data into actionable intelligence, optimizing decision-making, and automating workflows for improved accuracy and performance. 
-  Continuously exploring innovative data science applications to enhance business impact.
+  Continuously exploring innovative data science applications to enhance business impact.  
 
-  [View My LinkedIn Profile](https://www.linkedin.com/in/kartikey-saini-268827144)
+  ## Experience & Motivation  
 
-remote_theme: pages-themes/minimal@v0.2.0 # Using GitHub Minimal Theme
+  With over **4 years of experience** in **data analysis, business intelligence, and process automation**, I have developed a passion for **turning raw data into meaningful insights** that drive business impact.  
+
+  ### **Professional Background**  
+  - **Building Data-Driven Solutions**: Created **Oracle NetSuite dashboards** at **Atlas Tools and Machinery**, improving inventory accuracy by **40%**.  
+  - **Automating Workflows**: Reduced manual reporting efforts by **50%** through automation.  
+  - **Driving Business Growth**: Led **data projects for Inspire Brands**, helping secure **255+ new store locations**.  
+
+  ### **Connect With Me**  
+  📌 [LinkedIn](https://www.linkedin.com/in/kartikey-saini-268827144)  
+  📌 [GitHub](https://github.com/kartikeysaini98)  
+
+remote_theme: "pages-themes/minimal@v0.2.0"  # Using GitHub Minimal Theme
 
 plugins:
-  - jekyll-remote-theme # Enables Remote Themes
+  - jekyll-remote-theme  # Enables Remote Themes
 
-google_analytics: UA-000000-0 # Replace with Your Google Analytics ID
+google_analytics: "UA-000000-0"  # Replace with Your Google Analytics ID (or remove if unused)
 
-show_downloads: true # Show Download Button on Project Pages
+show_downloads: true  # Show Download Button on Project Pages
