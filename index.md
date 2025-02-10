@@ -160,15 +160,3 @@ Explore my projects below to see these skills in action!
 </div>
 
 ---
-
-## Experience & Motivation
-
-With over **4 years of experience** in **data analysis, business intelligence, and process automation**, I have developed a passion for **turning raw data into meaningful insights** that drive business impact. 
-
-### **Professional Background**
-I have worked in roles that involved:
-- **Building Data-Driven Solutions**: Created **Oracle NetSuite dashboards** at **Atlas Tools and Machinery**, improving inventory accuracy by **40%**.
-- **Automating Workflows**: Reduced manual reporting efforts by **50%** through automation.
-- **Driving Business Growth**: Led **data projects for Inspire Brands**, helping secure **255+ new store locations**.
-
----
