@@ -1,107 +1,95 @@
-## Selected projects in data science, machine learning and NLP
+## Selected Projects in Data Science, Machine Learning, and NLP
 
 ---
 
-### HR-Analytics
+### HR Analytics
 
-This HR Analytics Dashboard project is a comprehensive solution built using Power BI to help HR teams make data-driven decisions effortlessly. It consolidates critical workforce insights such as headcount distribution, gender and age analysis, salary trends, staff growth over time, and leave balance patterns into a single, interactive platform. The data was meticulously cleaned and prepared using Power Query, ensuring accuracy and consistency, while DAX measures were created for custom calculations like headcount, average salary, and cumulative trends. The result is a user-friendly dashboard that provides actionable insights, empowering HR professionals to optimize operations and drive organizational success.
+This HR Analytics Dashboard project is a comprehensive solution built using Power BI to help HR teams make data-driven decisions effortlessly. It consolidates critical workforce insights such as headcount distribution, gender and age analysis, salary trends, staff growth over time, and leave balance patterns into a single, interactive platform. 
 
-<img src="images/Bikes_project.PNG?raw=true"/>
+The data was meticulously cleaned and prepared using Power Query, ensuring accuracy and consistency, while DAX measures were created for custom calculations like headcount, average salary, and cumulative trends. 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
+<video controls width="100%">
+  <source src="https://kartikeysaini98.github.io/images/09.02.2025_18.50.01_REC.mp4" type="video/mp4">
+  Your browser does not support the video tag. Please <a href="https://kartikeysaini98.github.io/images/09.02.2025_18.50.01_REC.mp4">download the video</a> to view it.
+</video>
 
-[View code on Github](https://github.com/kartikeysaini98/Bikes_Sales_Analysis_Dashboard)
+[View the GitHub Repository](https://github.com/kartikeysaini98/HR-Analytics)
 
 ---
 
 ### Bike Sales Dashboard
 
-Developed an interactive dashboard in Excel to analyze customer demographics and purchasing behavior. Key insights include:<br>
+Developed an interactive dashboard in Excel to analyze customer demographics and purchasing behavior. Key insights include:
 
-Average Income by Purchase: Identified income trends segmented by gender, marital status, and region.<br>
-Customer Age Brackets: Visualized the purchasing behavior across different age groups, highlighting target demographics.<br>
-Filters and Interactivity: Incorporated slicers for marital status, region, and education to allow dynamic exploration of the data.<br>
-This dashboard showcases advanced Excel skills, including data visualization, PivotTables, and interactivity for actionable insights.<br>
+- **Average Income by Purchase**: Identified income trends segmented by gender, marital status, and region.
+- **Customer Age Brackets**: Visualized the purchasing behavior across different age groups.
+- **Filters and Interactivity**: Incorporated slicers for marital status, region, and education to allow dynamic exploration of the data.
 
-<img src="images/Bikes_project.PNG?raw=true"/>
+![Bike Sales Dashboard](images/Bikes_project.PNG?raw=true)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
-
-[View code on Github](https://github.com/kartikeysaini98/Bikes_Sales_Analysis_Dashboard)
+[View the GitHub Repository](https://github.com/kartikeysaini98/Bikes_Sales_Analysis_Dashboard)
 
 ---
 
 ### Service Sales Analysis Report
 
-Diving Deep into Sales Metrics!<br>
-I am excited to share my latest dashboard showcasing a comprehensive Sales Analysis for services across various categories and regions.
-Key Insights:<br>
-Top Categories: Phones and Chairs lead the sales, but there’s untapped potential in other sub-categories.<br>
-Regional Sales: West and Central regions dominate, but the opportunity lies in the South and Southwest.<br>
-Profit Margins: With a total profit of 286.40K, strategic discounts have played a crucial role.<br>
-This visual story highlights the importance of data-driven decisions in scaling sales and maximizing profits.
+Diving Deep into Sales Metrics! This dashboard showcases a comprehensive Sales Analysis for services across various categories and regions.
 
-<img src="images/Power_Bi.PNG?raw=true"/>
+**Key Insights**:
+- **Top Categories**: Phones and Chairs lead the sales, but there’s untapped potential in other sub-categories.
+- **Regional Sales**: West and Central regions dominate, but there’s an opportunity in the South and Southwest.
+- **Profit Margins**: Strategic discounts led to a total profit of 286.40K.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
+![Service Sales Dashboard](images/Power_Bi.PNG?raw=true)
 
-[View code on Github](https://github.com/kartikeysaini98/Service_Sales_Analysis)
+[View the GitHub Repository](https://github.com/kartikeysaini98/Service_Sales_Analysis)
 
 ---
 
-### Covid 19 XRay Image Classification
+### Covid-19 X-Ray Image Classification
 
-The purpose of this project is to detect COVID-19 on the basis of X-ray images by using Image Classification using Convolutional Neural Networks. This project uses specialized models like ResNet50 and the normal Sequential model. This project is perfect to get a start on the working of ResNet50. <br>
+The purpose of this project is to detect COVID-19 based on X-ray images using image classification with Convolutional Neural Networks. This project utilizes models like ResNet50 and Sequential.
 
-<img src="images/project1.png?raw=true" />
+![Covid-19 X-Ray Classification](images/project1.png?raw=true)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
-
-[View code on Github](https://github.com/kartikeysaini98/Covid-19-XRay-Image-Classification)
+[View the GitHub Repository](https://github.com/kartikeysaini98/Covid-19-XRay-Image-Classification)
 
 ---
 
 ### Glassdoor Data Cleaning Project
 
-A data cleaning project for processing and refining data scraped from Glassdoor's website.
+A data cleaning project for processing and refining data scraped from Glassdoor's website, showcasing skills in data wrangling with Python.
 
+![Glassdoor Data Cleaning](images/project2.png?raw=true)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-blue)](#) [![](https://img.shields.io/badge/numpy-white)](#)
-
-[View code on Github](https://github.com/kartikeysaini98/Glassdoor-Data-Cleaning)
-
----
-
-### Emotion-detection-using-NLP
-
-This Project deals with examining the text and then giving an outcome of the emotion. It uses regex operation, Vectorization, tokenization, and several other features of NLP. Finally, the model is trained and models like linear SVM and Multinomial Naive Bayes Classifier are used to decide the outcome.
-
-<img src="images/project3.jpg?raw=true"/>
-
-
-[![](https://img.shields.io/badge/sql-blue)](#) [![](https://img.shields.io/badge/noteable-blue)](#) [![](https://img.shields.io/badge/RDBMS-blue)](#) 
-
-[View code on Github](https://github.com/kartikeysaini98/Emotion-detection-using-NLP)
+[View the GitHub Repository](https://github.com/kartikeysaini98/Glassdoor-Data-Cleaning)
 
 ---
 
-### Very Basic ATM Code in Python (For Beginners only to make their concepts clear)
+### Emotion Detection Using NLP
 
-This is an application of a basic ATM without User Interface, that is written in python programming language. Moreover, this application will help you to strengthen your fundamentals on the loops used in python.
+This project analyzes text and predicts the associated emotion using techniques like tokenization, vectorization, and models like Linear SVM and Multinomial Naive Bayes.
 
-<img src="images/project4.jpg?raw=true" />
+![Emotion Detection Using NLP](images/project3.jpg?raw=true)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-blue)](#) [![](https://img.shields.io/badge/numpy-white)](#) 
-
-[View code on Github](https://github.com/kartikeysaini98/Basic-ATM)
-
-### Power BI DashBorad on Covid-19
-
-This is Power BI live dashboard reporting the cases of Covid-19 across the globe. This project uses all the intermediate concepts to make you a visualization expert in Microsoft's most demanding Visualization tool.
-<img src="images/project5.jpg?raw=true" />
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-blue)](#) [![](https://img.shields.io/badge/numpy-white)](#) 
-
-[View code on Github](https://github.com/kartikeysaini98/Basic-ATM)
+[View the GitHub Repository](https://github.com/kartikeysaini98/Emotion-detection-using-NLP)
 
 ---
+
+### Basic ATM Code in Python
+
+A basic Python application demonstrating ATM functionality. This project strengthens programming fundamentals with loops and user input handling.
+
+![Basic ATM in Python](images/project4.jpg?raw=true)
+
+[View the GitHub Repository](https://github.com/kartikeysaini98/Basic-ATM)
+
+---
+
+### Power BI Dashboard on Covid-19
+
+A live Power BI dashboard reporting COVID-19 cases globally. This project demonstrates intermediate Power BI concepts and advanced data visualizations.
+
+![Covid-19 Power BI Dashboard](images/project5.jpg?raw=true)
+
+[View the GitHub Repository](https://github.com/kartikeysaini98/Covid-19-Dashboard)
