@@ -1,14 +1,15 @@
-title: "Kartikey Saini | Data Analyst & BI Specialist"  # Website Title
-logo: "/images/Capture.PNG?raw=true"  # Path to Your Logo/Image
+title: KARTIKEY SAINI # Your name or website title here
+logo: "/images/Capture.PNG?raw=true" # Your photo or logo here
 
-
-  Data-driven analyst with 4+ years of experience in data analysis and operational workflows, leveraging SQL, Python, Power BI, Excel, and Machine Learning to drive business insights and process efficiency. 
+description:
+  Data-driven analyst with 4+ years of experience in data analysis and operational workflows, leveraging SQL, Python, and BI tools to drive business insights and process efficiency. 
   Passionate about transforming raw data into actionable intelligence, optimizing decision-making, and automating workflows for improved accuracy and performance. 
-  Continuously exploring innovative data science applications to enhance business impact.
+  Continuously exploring innovative data science applications to enhance business impact.  
+  
+  [View My LinkedIn Profile](https://www.linkedin.com/in/kartikey-saini-268827144)  
 
-links:
-  - name: LinkedIn
-    url: "https://www.linkedin.com/in/kartikey-saini-268827144"
-  - name: GitHub
-    url: "https://github.com/kartikeysaini98"
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
 
+google_analytics: UA-000000-0 # Your Google Analytics tracking ID here
