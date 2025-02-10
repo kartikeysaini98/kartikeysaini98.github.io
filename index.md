@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kartikey Saini - Portfolio
+title: MY PROJECTS - Portfolio
 ---
 
 <style>
@@ -37,9 +37,13 @@ title: Kartikey Saini - Portfolio
   }
 </style>
 
-# Kartikey Saini's Portfolio
+# Portfolio
 
-Welcome to my portfolio! Here you’ll find a collection of projects I’ve worked on, ranging from **HR analytics to machine learning, data cleaning, NLP, and business intelligence**.
+Welcome to my portfolio! Here, you'll find a showcase of projects where I've applied **data analytics, machine learning, and business intelligence** to solve real-world problems.  
+
+I specialize in working with **SQL, Python, Power BI, Excel, and Machine Learning** to extract insights, automate workflows, and build interactive dashboards. Whether it's **data cleaning, predictive modeling, or visualization**, I leverage these tools to transform raw data into meaningful business decisions.  
+
+Explore my projects below to see these skills in action!
 
 ---
 
@@ -50,7 +54,6 @@ Welcome to my portfolio! Here you’ll find a collection of projects I’ve work
 ### HR Analytics
 
 <div class="project">
-  <h3>HR Analytics Dashboard</h3>
   <p>
     A comprehensive Power BI solution to help HR teams make data-driven decisions efficiently. This dashboard consolidates key workforce insights such as **headcount, gender and age analysis, salary trends, staff growth over time, and leave balance**.
   </p>
@@ -66,7 +69,6 @@ Welcome to my portfolio! Here you’ll find a collection of projects I’ve work
 ### Bike Sales Dashboard
 
 <div class="project">
-  <h3>Bike Sales Dashboard</h3>
   <p>
     Created an interactive **Excel dashboard** to analyze customer demographics and purchasing behavior.
   </p>
@@ -84,7 +86,6 @@ Welcome to my portfolio! Here you’ll find a collection of projects I’ve work
 ### Service Sales Analysis Report
 
 <div class="project">
-  <h3>Service Sales Analysis Report</h3>
   <p>
     This **Power BI dashboard** showcases a **comprehensive sales analysis** for services across different categories and regions.
   </p>
@@ -102,7 +103,6 @@ Welcome to my portfolio! Here you’ll find a collection of projects I’ve work
 ### COVID-19 X-Ray Image Classification
 
 <div class="project">
-  <h3>COVID-19 Detection Using Deep Learning</h3>
   <p>
     Implemented **Convolutional Neural Networks (CNNs)** to detect COVID-19 from X-ray images. Utilized **ResNet50** for improved classification accuracy.
   </p>
@@ -115,7 +115,6 @@ Welcome to my portfolio! Here you’ll find a collection of projects I’ve work
 ### Glassdoor Data Cleaning Project
 
 <div class="project">
-  <h3>Glassdoor Data Cleaning</h3>
   <p>
     Cleaned and structured **job listing data scraped from Glassdoor** to improve usability and insights.
   </p>
@@ -127,7 +126,6 @@ Welcome to my portfolio! Here you’ll find a collection of projects I’ve work
 ### Emotion Detection Using NLP
 
 <div class="project">
-  <h3>Emotion Detection Using NLP</h3>
   <p>
     Used **Natural Language Processing (NLP)** techniques like **vectorization, tokenization, and SVM classifiers** to detect emotions in text.
   </p>
@@ -140,7 +138,6 @@ Welcome to my portfolio! Here you’ll find a collection of projects I’ve work
 ### Basic ATM Code in Python
 
 <div class="project">
-  <h3>Basic ATM in Python</h3>
   <p>
     A simple **ATM simulation** written in Python, helping beginners understand **loops and functions**.
   </p>
@@ -153,7 +150,6 @@ Welcome to my portfolio! Here you’ll find a collection of projects I’ve work
 ### Power BI Dashboard on COVID-19
 
 <div class="project">
-  <h3>COVID-19 Live Dashboard</h3>
   <p>
     Developed an interactive **Power BI dashboard** visualizing COVID-19 cases worldwide.
   </p>
@@ -180,5 +176,3 @@ I have worked in roles that involved:
 📌 [GitHub](https://github.com/kartikeysaini98)  
 
 ---
-
-🚀🔥 **Your portfolio is now fully restored, visually enhanced, and professional!** Just copy-paste and push the changes! 🚀🔥
