@@ -2,6 +2,18 @@
 
 ---
 
+### HR-Analytics
+
+This HR Analytics Dashboard project is a comprehensive solution built using Power BI to help HR teams make data-driven decisions effortlessly. It consolidates critical workforce insights such as headcount distribution, gender and age analysis, salary trends, staff growth over time, and leave balance patterns into a single, interactive platform. The data was meticulously cleaned and prepared using Power Query, ensuring accuracy and consistency, while DAX measures were created for custom calculations like headcount, average salary, and cumulative trends. The result is a user-friendly dashboard that provides actionable insights, empowering HR professionals to optimize operations and drive organizational success.
+
+<img src="images/Bikes_project.PNG?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/numpy-white)](#)
+
+[View code on Github](https://github.com/kartikeysaini98/Bikes_Sales_Analysis_Dashboard)
+
+---
+
 ### Bike Sales Dashboard
 
 Developed an interactive dashboard in Excel to analyze customer demographics and purchasing behavior. Key insights include:<br>
