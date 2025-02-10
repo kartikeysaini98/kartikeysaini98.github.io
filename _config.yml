@@ -1,7 +1,7 @@
-title: KARTIKEY SAINI # Your name or website title here
-logo: "/images/Capture.PNG?raw=true" # Your photo or logo here
+title: "KARTIKEY SAINI | ANALYST & RESEARCH SPECIALIST"  # Your name or website title
+logo: "/images/Capture.PNG?raw=true"  # Your photo or logo
 
-description:
+description: |
   <div style="text-align: center;">
     Data-driven analyst with 4+ years of experience in data analysis and operational workflows, leveraging SQL, Python, and BI tools to drive business insights and process efficiency.<br>
     Passionate about transforming raw data into actionable intelligence, optimizing decision-making, and automating workflows for improved accuracy and performance.<br>
@@ -9,13 +9,14 @@ description:
   </div>
 
 links:
-  - name: LinkedIn
+  - name: "LinkedIn"
     url: "https://www.linkedin.com/in/kartikey-saini-268827144"
-  - name: GitHub
+  - name: "GitHub"
     url: "https://github.com/kartikeysaini98"
 
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "pages-themes/minimal@v0.2.0"
 plugins:
   - jekyll-remote-theme
 
-google_analytics: UA-000000-0 # Your Google Analytics tracking ID here
+google_analytics: "UA-000000-0"  # Replace with your Google Analytics tracking ID
+
