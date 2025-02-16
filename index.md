@@ -66,6 +66,22 @@ Explore my projects below to see these skills in action!
 
 ---
 
+### Health Data Analytics
+
+<div class="project">
+  <p>
+    Built an interactive Power BI dashboard to analyze patient admissions, test results, billing trends, and demographics. Extracted key insights on hospital resource planning, insurance coverage impact, and medication effectiveness from a neutral dataset.
+  </p>
+  <video controls width="100%">
+    <source src="https://kartikeysaini98.github.io/images/15.02.2025_20.51.21_REC.mp4" type="video/mp4">
+    Your browser does not support the video tag. <a href="https://kartikeysaini98.github.io/images/09.02.2025_18.50.01_REC.mp4">Download the video</a>.
+  </video>
+  <a href="https://github.com/kartikeysaini98/HR-Analytics" target="_blank">View the GitHub Repository</a>
+</div>
+
+---
+
+
 ### Bike Sales Dashboard
 
 <div class="project">
