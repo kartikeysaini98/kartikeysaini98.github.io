@@ -73,8 +73,8 @@ Explore my projects below to see these skills in action!
     Developed a comprehensive analytics solution to help businesses make informed decisions efficiently. This dashboard consolidates key insights such as revenue trends, customer demographics, product performance, and regional sales analysis.
   </p>
   <video controls width="100%">
-    <source src="https://kartikeysaini98.github.io/Retail-Store-Engagement-/13.03.2025_21.57.09_REC.mp4" type="video/mp4">
-    Your browser does not support the video tag. <a href="https://kartikeysaini98.github.io/Retail-Store-Engagement-/13.03.2025_21.57.09_REC.mp4">Download the video</a>.
+    <source src="https://kartikeysaini98.github.io/images/13.03.2025_21.57.09_REC.mp4" type="video/mp4">
+    Your browser does not support the video tag. <a href="https://kartikeysaini98.github.io/images/13.03.2025_21.57.09_REC.mp4">Download the video</a>.
   </video>
   <a href="https://github.com/kartikeysaini98/HR-Analytics" target="_blank">View the GitHub Repository</a>
 </div>
